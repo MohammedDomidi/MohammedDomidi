@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-I’m Mohammed, a software engineer, creative coder who specializes in back-end development. I make it my mission to translate user-focused designs into that run blazing fast😄.
+I’m Mohammed, a software engineer, creative coder who specializes in back-end development. I make it my mission to translate user-focused designs into applications that run blazing fast😄.
 
 <br>
 
